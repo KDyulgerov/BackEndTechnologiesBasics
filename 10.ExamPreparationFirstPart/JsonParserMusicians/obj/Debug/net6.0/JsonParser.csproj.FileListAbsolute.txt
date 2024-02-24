@@ -1,0 +1,15 @@
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\JsonParser.exe
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\Datasets\Musicians.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\JsonParser.deps.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\bin\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\refint\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\JsonParserMusicians\obj\Debug\net6.0\ref\JsonParser.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\JsonParserMusicians\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|d:\\kd\\softuni\\back-end technologies basics\\13. exam preparation\\part 1\\jsonparsermusicians\\datasets\\musicians.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|solutionrelative:datasets\\musicians.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Musicians.json",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\JsonParserMusicians\\Datasets\\Musicians.json",
+              "RelativeDocumentMoniker": "Datasets\\Musicians.json",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\JsonParserMusicians\\Datasets\\Musicians.json",
+              "RelativeToolTip": "Datasets\\Musicians.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T07:53:20.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

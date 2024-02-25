@@ -96,7 +96,7 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
             };
 
             await contactManager.AddAsync(newContact);
-            
+
             await contactManager.DeleteAsync(newContact.Contact_ULID);
 
             var contactInDb = await dbContext.Contacts.FirstOrDefaultAsync(x => x.Contact_ULID == newContact.Contact_ULID);
@@ -192,7 +192,7 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
             };
 
             await contactManager.AddAsync(newContact);
-            
+
             var actual = await contactManager.SearchByFirstNameAsync(newContact.FirstName);
             var resultContact = actual.First();
 
@@ -223,9 +223,31 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
 
             await contactManager.AddAsync(newContact);
 
-            var exception = Assert.ThrowsAsync<KeyNotFoundException> (() => contactManager.SearchByFirstNameAsync("NonExistingFirstName"));
+            var exception = Assert.ThrowsAsync<KeyNotFoundException>(() => contactManager.SearchByFirstNameAsync("NonExistingFirstName"));
 
             Assert.That(exception.Message, Is.EqualTo("No contact found with the given first name."));
+        }
+
+        [TestCase ("   ")]
+        [TestCase (null)]
+        public async Task SearchByFirstNameAsync_WithNullOrWhiteSpace_ShouldThrowArgumentException(string nullOrWhiteSpace)
+        {
+            var newContact = new Contact()
+            {
+                FirstName = "TestFirstName",
+                LastName = "TestLastName",
+                Address = "Anything for testing address",
+                Contact_ULID = "1ABC23456HH",
+                Email = "example@email.com",
+                Gender = "Male",
+                Phone = "0889933779"
+            };
+
+            await contactManager.AddAsync(newContact);
+
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => contactManager.SearchByFirstNameAsync(nullOrWhiteSpace));
+
+            Assert.That(exception.Message, Is.EqualTo("First name cannot be empty."));
         }
 
         [Test]
@@ -279,6 +301,28 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
             Assert.That(exception.Message, Is.EqualTo("No contact found with the given last name."));
         }
 
+        [TestCase("   ")]
+        [TestCase(null)]
+        public async Task SearchByLastNameAsync_WithNullOrWhiteSpace_ShouldThrowArgumentException(string nullOrWhiteSpace)
+        {
+            var newContact = new Contact()
+            {
+                FirstName = "TestFirstName",
+                LastName = "TestLastName",
+                Address = "Anything for testing address",
+                Contact_ULID = "1ABC23456HH",
+                Email = "example@email.com",
+                Gender = "Male",
+                Phone = "0889933779"
+            };
+
+            await contactManager.AddAsync(newContact);
+
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => contactManager.SearchByLastNameAsync(nullOrWhiteSpace));
+
+            Assert.That(exception.Message, Is.EqualTo("Last name cannot be empty."));
+        }
+
         [Test]
         public async Task GetSpecificAsync_WithValidULID_ShouldReturnContact()
         {
@@ -327,6 +371,28 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
             var exception = Assert.ThrowsAsync<KeyNotFoundException>(() => contactManager.GetSpecificAsync(invalidULID));
 
             Assert.That(exception.Message, Is.EqualTo($"No contact found with ULID: {invalidULID}"));
+        }
+
+        [TestCase ("   ")]
+        [TestCase (null)]
+        public async Task GetSpecificAsync_WithNullOrWhiteSpace_ShouldThrowArgumentException(string nullOrWhiteSpace)
+        {
+            var newContact = new Contact()
+            {
+                FirstName = "TestFirstName",
+                LastName = "TestLastName",
+                Address = "Anything for testing address",
+                Contact_ULID = "1ABC23456HH",
+                Email = "example@email.com",
+                Gender = "Male",
+                Phone = "0889933779"
+            };
+
+            await contactManager.AddAsync(newContact);
+
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => contactManager.GetSpecificAsync(nullOrWhiteSpace));
+
+            Assert.That(exception.Message, Is.EqualTo("ULID cannot be empty."));
         }
 
         [Test]
@@ -396,7 +462,7 @@ namespace ContactsConsoleAPI.IntegrationTests.NUnit
                 Phone = "0889933770"
             };
 
-            var exception = Assert.ThrowsAsync<ValidationException> (() => contactManager.UpdateAsync(invalidContact));
+            var exception = Assert.ThrowsAsync<ValidationException>(() => contactManager.UpdateAsync(invalidContact));
 
             Assert.That(exception.Message, Is.EqualTo("Invalid contact!"));
         }

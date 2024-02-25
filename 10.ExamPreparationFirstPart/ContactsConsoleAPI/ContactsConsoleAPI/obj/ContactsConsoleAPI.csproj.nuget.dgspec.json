@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {}
+    "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {}
   },
   "projects": {
-    "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
+    "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+        "projectUniqueName": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
         "projectName": "ContactsConsoleAPI",
-        "projectPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+        "projectPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\obj\\",
+        "outputPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

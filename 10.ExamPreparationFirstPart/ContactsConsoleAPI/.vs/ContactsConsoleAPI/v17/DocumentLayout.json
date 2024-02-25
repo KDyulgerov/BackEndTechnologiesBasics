@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\",
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|d:\\kd\\softuni\\back-end technologies basics\\13. exam preparation\\part 1\\contactsconsoleapi\\contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|d:\\kd\\softuni\\back-end technologies basics\\backendtechnologiesbasics\\10.exampreparationfirstpart\\contactsconsoleapi\\contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IntegrationTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeDocumentMoniker": "ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeToolTip": "ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "ViewState": "AQIAAEYBAAAAAAAAAAA4wGwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T11:47:11.085Z",
               "EditorCaption": ""

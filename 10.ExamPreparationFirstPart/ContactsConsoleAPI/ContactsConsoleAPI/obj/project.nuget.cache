@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BQluzjqPMmfHTA/mugXBofrEUldst2NE8KrBXI3TKWWtjausLkMwnh4zJTgPZEV1hPd5dCEdC5AwBEew2YY0Lg==",
+  "dgSpecHash": "NTTAKWG3LArMzz6czj4jO1AjYv/ltaV7FflvQI0L1CDuh06xf8W3PSZC1ffyXtH1nACz0sQSpHx+5n4lnsAJ0g==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI\\ContactsConsoleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

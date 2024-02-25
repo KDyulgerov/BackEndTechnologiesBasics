@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBNdeG+f2l0elrVrfFy29Axr16MNL3LO7UsMVuW2j+rqpy8rXKYINR6r2P0cKbtENs0/l4wisTXb+tKP+Qhp0A==",
+  "dgSpecHash": "pZJdO3A3/5DTbgmtEu9qzO1lVxxULXBgw6W1sQ3vCuZLCTFn+F8W6molsZQLyiw4pM0J7cwONtdP/x1xaVadnQ==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 1\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\10.ExamPreparationFirstPart\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

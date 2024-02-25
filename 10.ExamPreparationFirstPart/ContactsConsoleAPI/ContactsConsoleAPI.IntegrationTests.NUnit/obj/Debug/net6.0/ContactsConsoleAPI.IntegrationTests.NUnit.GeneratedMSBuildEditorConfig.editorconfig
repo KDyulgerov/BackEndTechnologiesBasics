@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactsConsoleAPI.IntegrationTests.NUnit
-build_property.ProjectDir = D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 1\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\
+build_property.ProjectDir = D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\10.ExamPreparationFirstPart\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactsConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf75ef32c682c0378b08a5fc0f8af6132c352d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactsConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactsConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

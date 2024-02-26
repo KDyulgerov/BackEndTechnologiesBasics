@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}|ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj|d:\\kd\\softuni\\back-end technologies basics\\backendtechnologiesbasics\\11.exampreparationsecondpart\\productconsoleapi\\productconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}|ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:productconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "RelativeToolTip": "ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAAAuwGIBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:46:13.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

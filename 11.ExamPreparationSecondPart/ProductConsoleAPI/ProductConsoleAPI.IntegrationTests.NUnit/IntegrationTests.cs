@@ -229,6 +229,27 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
             Assert.That(exception?.Message, Is.EqualTo("No product found with the given first name."));
         }
 
+        [TestCase("   ")]
+        [TestCase(null)]
+        public async Task SearchByOriginCountryAsync_WithNonExistingOriginCountry_ShouldThrowKeyNotFoundException(string nullOrWhiteSpace)
+        {
+            var newProduct = new Product()
+            {
+                OriginCountry = "Bulgaria",
+                ProductName = "TestProduct",
+                ProductCode = "AB12C",
+                Price = 1.25m,
+                Quantity = 100,
+                Description = "Anything for description"
+            };
+
+            await productsManager.AddAsync(newProduct);
+
+            var exception = Assert.ThrowsAsync<ArgumentException>(async () => await productsManager.SearchByOriginCountry(nullOrWhiteSpace));
+
+            Assert.That(exception?.Message, Is.EqualTo("Country name cannot be empty."));
+        }
+
         [Test]
         public async Task GetSpecificAsync_WithValidProductCode_ShouldReturnProduct()
         {
@@ -266,7 +287,7 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
             Assert.That(actual?.Description, Is.EqualTo(firstProduct?.Description));
         }
 
-            [Test]
+        [Test]
         public async Task GetSpecificAsync_WithInvalidProductCode_ShouldThrowKeyNotFoundException()
         {
             var newProduct = new Product()
@@ -285,6 +306,27 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
             var exception = Assert.ThrowsAsync<KeyNotFoundException>(async () => await productsManager.GetSpecificAsync(nonExistingProductCode));
 
             Assert.That(exception?.Message, Is.EqualTo($"No product found with product code: {nonExistingProductCode}"));
+        }
+
+        [TestCase("   ")]
+        [TestCase(null)]
+        public async Task GetSpecificAsync_WithNullOrWhiteSpaceProductCode_ShouldThrowKeyNotFoundException(string nullOrWhiteSpace)
+        {
+            var newProduct = new Product()
+            {
+                OriginCountry = "Bulgaria",
+                ProductName = "TestProduct",
+                ProductCode = "AB12C",
+                Price = 1.25m,
+                Quantity = 100,
+                Description = "Anything for description"
+            };
+
+            await productsManager.AddAsync(newProduct);
+
+            var exception = Assert.ThrowsAsync<ArgumentException>(async () => await productsManager.GetSpecificAsync(nullOrWhiteSpace));
+
+            Assert.That(exception?.Message, Is.EqualTo("Product code cannot be empty."));
         }
 
         [Test]
@@ -350,7 +392,7 @@ namespace ProductConsoleAPI.IntegrationTests.NUnit
                 Description = ""
             };
 
-            var exception = Assert.ThrowsAsync<ValidationException> (async () => await productsManager.UpdateAsync(invalidProduct));
+            var exception = Assert.ThrowsAsync<ValidationException>(async () => await productsManager.UpdateAsync(invalidProduct));
 
             Assert.That(exception?.Message, Is.EqualTo("Invalid prduct!"));
         }

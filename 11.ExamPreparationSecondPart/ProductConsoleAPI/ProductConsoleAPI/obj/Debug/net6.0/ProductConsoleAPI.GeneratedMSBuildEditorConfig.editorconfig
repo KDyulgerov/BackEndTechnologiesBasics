@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductConsoleAPI
-build_property.ProjectDir = D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\ProductConsoleAPI\ProductConsoleAPI\
+build_property.ProjectDir = D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\ProductConsoleAPI\ProductConsoleAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

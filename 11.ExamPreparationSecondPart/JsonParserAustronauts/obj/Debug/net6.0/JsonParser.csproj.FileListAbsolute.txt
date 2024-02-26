@@ -1,0 +1,31 @@
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.exe
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\Datasets\Astronauts.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.deps.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\refint\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\KD\SoftUni\Back-End Technologies Basics\13. Exam Preparation\Part 2\JsonParserAustronauts\obj\Debug\net6.0\ref\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.exe
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\Datasets\Astronauts.json
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.deps.json
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.sourcelink.json
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\refint\JsonParser.dll
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.pdb
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\KD\SoftUni\Back-End Technologies Basics\BackEndTechnologiesBasics\11.ExamPreparationSecondPart\JsonParserAustronauts\obj\Debug\net6.0\ref\JsonParser.dll

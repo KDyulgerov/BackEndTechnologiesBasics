@@ -2387,11 +2387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+      "projectUniqueName": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
       "projectName": "ProductConsoleAPI",
-      "projectPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+      "projectPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
+      "outputPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

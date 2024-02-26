@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9A/4148lYfHjVUDK/9SD3CRSwvZVam58lrddLpepGJ3O9YMHqy6hkBxswieKaNflgbSE+theHF93ipkbHi7pw==",
+  "dgSpecHash": "C2B2gZw6SUXlAH1gy44Ea2G3f7Llv+FsAxwO0py6iAllr1PSFoWtFvwUkHLD0YHTp5lYbNovdyCD+5sW1RHcUQ==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI\\ProductConsoleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

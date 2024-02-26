@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vKIGa6p4qLLm6j/Deok++0WIp3UR69T0Zqwj7ED4lfX5M4a6xh8np/9Y2ua2/eQ6ZDUjiHnWkFqiOHfARSXOA==",
+  "dgSpecHash": "LxUdcwOeqGyFI0vl+nV8HNaYp4cVi7CSIvm3yYWku0D+GSN0+9Xt8BauZnrk164e6AqhZtSHfTIVDQ9mm311Sw==",
   "success": true,
-  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
+  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

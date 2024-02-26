@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\",
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}|ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj|d:\\kd\\softuni\\back-end technologies basics\\backendtechnologiesbasics\\11.exampreparationsecondpart\\productconsoleapi\\productconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}|ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj|d:\\kd\\softuni\\back-end technologies basics\\13. exam preparation\\part 2\\productconsoleapi\\productconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}|ProductConsoleAPI.IntegrationTests.NUnit\\ProductConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:productconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IntegrationTests.cs",
-              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeDocumentMoniker": "ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\BackEndTechnologiesBasics\\11.ExamPreparationSecondPart\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Technologies Basics\\13. Exam Preparation\\Part 2\\ProductConsoleAPI\\ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeToolTip": "ProductConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ViewState": "AQIAACgBAAAAAAAAAAAuwGIBAABKAAAA",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAqwPcAAACNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T17:46:13.425Z",
               "EditorCaption": ""
